@@ -1,0 +1,22 @@
+{
+  "name": "gambling-wheel",
+  "version": "1.0.0",
+  "main": "project.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pratikshsaini/gambling-wheel.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pratikshsaini/gambling-wheel/issues"
+  },
+  "homepage": "https://github.com/pratikshsaini/gambling-wheel#readme",
+  "description": "",
+  "dependencies": {
+    "prompt-sync": "^4.2.0"
+  }
+}
